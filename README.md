@@ -1,3 +1,5 @@
+# Client does not like node 16
+# Backend is okay with both node 16 and node 12.13.0
 # Starter Name Generator
 
 ## Installation
